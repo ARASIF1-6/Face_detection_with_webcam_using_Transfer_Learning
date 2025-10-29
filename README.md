@@ -58,12 +58,6 @@ venv\Scripts\activate      # For Windows
 ### 3️⃣ Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-```
-
-If you don’t have a `requirements.txt` file, manually install:
-
-```bash
 pip install opencv-python tensorflow numpy matplotlib
 ```
 
